@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start1": "node index1.js",
+    "start2": "node index2.js",
+    "start3": "node index3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "bybit-api": "^3.9.7",
+    "line-notify-nodejs": "^1.0.1",
+    "node-cron": "^3.0.3"
+  }
+}
